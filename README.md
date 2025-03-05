@@ -12,7 +12,6 @@ This is a simple 2D multiplayer prototype developed in Unity, where two players 
 ## Technologies Used
 - **Unity** (game engine)
 - **C#** (game logic and scripting)
-- **Photon / Mirror** (for networking, if applicable)
 
 ## Project Status
 This project is a prototype and will not receive further development.
