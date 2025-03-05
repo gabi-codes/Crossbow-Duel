@@ -9,16 +9,6 @@ This is a simple 2D multiplayer prototype developed in Unity, where two players 
 - Basic 2D graphics
 - Fast-paced action
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-game.git
-   cd your-game
-   ```
-2. Open the project in Unity.
-3. Build and run the game.
-
 ## Technologies Used
 - **Unity** (game engine)
 - **C#** (game logic and scripting)
